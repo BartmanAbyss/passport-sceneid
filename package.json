@@ -1,0 +1,30 @@
+{
+  "name": "passport-sceneid",
+  "version": "1.0.1",
+  "description": "SceneID authentication strategy for Passport and Node.js",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartmanAbyss/passport-sceneid.git"
+  },
+  "keywords": [
+    "passport",
+    "sceneid",
+    "auth",
+    "authn",
+    "authentication"
+  ],
+  "author": "Bartman/Abyss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BartmanAbyss/passport-sceneid/issues"
+  },
+  "homepage": "https://github.com/BartmanAbyss/passport-sceneid#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.3.0",
+    "util": "^0.10.3"
+  }
+}
